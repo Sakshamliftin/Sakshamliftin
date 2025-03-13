@@ -1,41 +1,87 @@
-## Hi there, I'm Saksham 👋
+![MasterHead](/ezgif.com-crop.gif)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sakshamliftin.Sakshamliftin" />
 
-Welcome to my profile! I'm a passionate Web Developer with expertise in MERN (MongoDB, Express, React, Node.js) and PERN (PostgreSQL, Express, React, Node.js) stacks. Additionally, I have experience in Python development and have ventured into Machine Learning (ML), with a special interest in natural language processing (NLP).
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+I'm+Saksham+Saklani!+🔥;" />
+</h1>
 
-## 🔧 Technologies I work with:
+<h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<br>
 
-## Web Development:
 
-Frontend: React.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, RESTful APIs
-Databases: MongoDB, PostgreSQL
-Python:
+<div align="left">
+ 
+ 🔭 I’m currently working on **Machine Learning and Web Dev Projects**
+ 
+ 🌱 I’m currently learning **Generative AI**
 
-## Web Scraping: BeautifulSoup, Selenium
+💬 Ask me about **AIML, Python, Web Development**
 
-## Data Science & ML: 
-Pandas, NumPy, Scikit-learn, TensorFlow
+🤝 I'm seeking collaboration on **AIML or Python projects**
 
-## NLP: 
-NLTK, Spacy, Prompt Engineering
+ </div>
+ <br><br>
+ 
+<div align="center"> 
+  <a href="mailto:saksham0405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/saksham-saklani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+  <a href="https://niranjan-jha-portfolio.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-8822A6?style=for-the-badge&logo=todoist&logoColor=white"  /> 
+  </a>
+</div>
 
-Tools & Others:
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,vscode,github,git,r" /><br>
+    <img src="https://skillicons.dev/icons?i=react,pytorch,opencv,tensorflow,mysql,flask" />
+    <div style="display: inline-block;">
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+        </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+        </a> 
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        </a>
+      
+    
+</div>
 
-Git & GitHub
-Jest, Mocha for Testing
+<br/>
+<hr/>
 
-## 🌱 Currently Learning:
-Advanced Machine Learning and Deep Learning concepts
-Building scalable, production-level web applications
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sakshamliftin/Sakshamliftin/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 🤖 My NLP Projects:
-Text Classification: Using NLTK and Scikit-learn for classifying text data.
-Web Scraping: Extracting useful data from websites with BeautifulSoup and Selenium.
-Prompt Engineering: Enhancing the performance of AI models with customized prompts.
+<hr/>
 
-## 💬 Let's Connect!
-If you need assistance with web development, machine learning, or just want to discuss tech, feel free to reach out via email at saksham0405@gmail.com or connect with me on LinkedIn[https://www.linkedin.com/in/saksham-saklani/] and GitHub. Always open to learning, sharing knowledge, and collaborating on exciting projects.
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sakshamliftin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sakshamliftin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamliftin&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## Saksham's GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Sakshamliftin&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<br/><br/>
 
+<hr/>
+
+<h3 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Thanks+for+visiting+😎;+I'm+always+down+to+collab+🤖;" />
+</h3>
