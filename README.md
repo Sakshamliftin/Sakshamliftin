@@ -53,8 +53,22 @@ An intelligent recruitment platform featuring:
 * Recruiter analytics dashboard
 * Scalable backend architecture
 
+
 ---
 
+## 📝 Gym Buddy
+
+**Next.js • Node.js • Express • PostgreSQL**
+
+A production-style content management system featuring:
+
+* JWT authentication
+* Optimized PostgreSQL schema
+* AI-powered coaching assitant
+* REST API versioning and rate limiting
+* Modern UI
+
+---
 ## 💳 PayStream
 
 **Spring Boot • Kafka • Redis • Docker • Kubernetes**
@@ -71,19 +85,7 @@ Highlights:
 
 ---
 
-## 📝 MyBlogs CMS
 
-**Node.js • Express • PostgreSQL**
-
-A production-style content management system featuring:
-
-* JWT authentication
-* Rich text editor
-* Optimized PostgreSQL schema
-* AI-powered recommendation engine
-* REST API versioning and rate limiting
-
----
 
 # Tech Stack
 
